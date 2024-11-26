@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ragheb</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-fm&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-fm" /> </p>
 
 - 🔭 I’m currently working on **Tip calculator app**
 
