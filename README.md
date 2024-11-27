@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-fm&show_icons=true&locale=en&layout=compact" alt="mohamed-fm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-fm&show_icons=true&locale=en" alt="mohamed-fm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-fm&show_icons=true&locale=en&layout=compact" alt="mohamed-fm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-fm&" alt="mohamed-fm" /></p>
