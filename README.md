@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-fm&show_icons=true&locale=en" alt="mohamed-fm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-fm&" alt="mohamed-fm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama&" alt="mohamed-fm" /></p>
