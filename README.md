@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ragheb</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-fm&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-fm" /> </p>
+
 
 - 🔭 I’m currently working on **Tip calculator app**
 
@@ -27,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-fm&show_icons=true&locale=en&layout=compact" alt="mohamed-fm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-fm&show_icons=true&locale=en&layout=compact" alt="mohamed-fm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-fm&show_icons=true&locale=en" alt="mohamed-fm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-fm&" alt="mohamed-fm" /></p>
